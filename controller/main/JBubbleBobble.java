@@ -1,0 +1,23 @@
+/**
+ * Package with main class and game class that runs the game.
+ */
+package main;
+
+/**
+ * Main class, starts Game Engine.
+ */
+public class JBubbleBobble {
+////////////////////////////////////////////////////////////////////////////////////
+	public static final String VERSION = "version 0.92";
+////////////////////////////////////////////////////////////////////////////////////
+//MAIN 
+	
+	/**
+	 * Starts game engine by creating one.
+	 */
+	public static void main(String[] args) {
+			Game.getInstance();
+	}
+	
+////////////////////////////////////////////////////////////////////////////////////
+}

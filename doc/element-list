@@ -1,0 +1,11 @@
+controller.contextControllers
+controller.controllers
+controller.filesManagers
+controller.inputManagers
+main
+model.collectables
+model.enemies
+model.game
+model.player
+view.userInterface
+view.window
