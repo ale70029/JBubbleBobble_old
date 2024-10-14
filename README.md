@@ -9,4 +9,4 @@ UML is provided.
 You can also find a project explanation in Italian, i will translate it soon.
 
 
-I'm rewriting the whole project, look for "JBubbleBubble"
+I'm reworking the whole project, look for "JBubbleBubble" at : https://github.com/ale70029/JBubbleBobble
